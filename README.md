@@ -1,4 +1,4 @@
-Folder Contents Toggle
+Folder Contents Toggle 
 
 - Write a Folder component that displays the name of a folder called 'Home'.
 - Under the folder there should be three files in an unordered list: 'File1', 'File2', 'File3'.
