@@ -5,4 +5,4 @@ Folder Contents Toggle
 - Add a button that toggle the visibility of the files on the screen everytime it is clicked.
 - eg: Initially the folder and files are all on the screen, but when the "Toggle' button is clicked the files disappear, then when it is clicked again, the files reappear.
 
-View Page at: https://daniel-ho986.github.io/TTP-FolderContentsToggle/
+View Page at: https://daniel-ho986.github.io/TTP-FolderContentsToggle/ 
